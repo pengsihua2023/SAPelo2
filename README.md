@@ -2,3 +2,4 @@
 [GPU Computing on Sapelo2](https://wiki.gacrc.uga.edu/wiki/GPU)  
 [Running Jobs on Sapelo2](https://wiki.gacrc.uga.edu/wiki/Running_Jobs_on_Sapelo2)  
 [Sample job submission scripts](https://wiki.gacrc.uga.edu/wiki/Running_Jobs_on_Sapelo2#Sample_job_submission_scripts)  
+[Environment Variables exported by batch jobs](https://wiki.gacrc.uga.edu/wiki/Running_Jobs_on_Sapelo2#Environment_Variables_exported_by_batch_jobs)  
