@@ -14,4 +14,5 @@
 ![b8-1](./images/b8-1.png)  
 ## b8-2 GPU （Ethernet：10.2.10.5；InfiB：10.55.4.2）
 ![b8-2](./images/b8-2.png)  
-
+## b8-3 GPU （Ethernet：10.2.10.6；InfiB：10.55.4.3）
+![b8-3](./images/b8-3.png) 
