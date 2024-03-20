@@ -4,3 +4,4 @@
 scontrol show node <node_name> | grep Gres
 
 ```
+>>Gres=gpu:A100:4(S:0-1),lscratch:3570  
