@@ -24,3 +24,19 @@
 ![c5-22](./images/c5-22.png) 
 ## c5-23 GPU （Ethernet：10.2.1.117；InfiB：10.55.1.117）No.13
 ![c5-23](./images/c5-23.png) 
+## Cuda module in Sapelo2
+  CUDA:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+    Description:
+      CUDA (formerly Compute Unified Device Architecture) is a parallel computing platform and programming model created by NVIDIA and implemented by the graphics processing units (GPUs) that they produce. CUDA gives developers access to the virtual instruction set and memory of the parallel computational elements in CUDA GPUs.
+
+     Versions:
+        CUDA/10.0.130
+        CUDA/10.1.243
+        CUDA/11.1.1-GCC-10.2.0
+        CUDA/11.2.1-GCC-8.3.0
+        CUDA/11.2.1
+        CUDA/11.3.1
+        CUDA/11.4.1
+        CUDA/11.7.0
+        CUDA/12.0.0
