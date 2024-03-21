@@ -1,7 +1,3 @@
-# GPUs in our group
-## d1-10
-
-
 # GPUs in SAPelo
 ## b6-1 GPU （Ethernet：10.2.3.197；InfiB：10.55.3.197）No.1
 ![b6-1](./images/b6-1.png)  
