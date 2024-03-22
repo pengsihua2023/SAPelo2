@@ -2,7 +2,7 @@
 ## GPU nodes in Sapelo2
 sinfo --Format=NodeHost,Gres | grep gpu  
 a1-9(scavenge_p)    gpu:V100S:1(S:0),lsc  
-a1-10(scavenge_p)   gpu:V100S:1(S:0),lsc 
+a1-10(scavenge_p)   gpu:V100S:1(S:0),lsc   
 a1-23(scavenge_p)   gpu:V100S:1(S:0),lsc  
 a1-24(scavenge_p)   gpu:V100S:1(S:0),lsc 
 
