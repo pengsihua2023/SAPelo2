@@ -2,37 +2,37 @@
 ## GPU nodes in Sapelo2
 sinfo --Format=NodeHost,Gres | grep gpu 
 
-a1-9(scavenge_p)    gpu:V100S:1(S:0),lsc  CPU Mem:128G, GPU Mem: 32G, Core: 32  
-a1-10(scavenge_p)   gpu:V100S:1(S:0),lsc   
-a1-23(scavenge_p)   gpu:V100S:1(S:0),lsc  
-a1-24(scavenge_p)   gpu:V100S:1(S:0),lsc 
+a1-9(scavenge_p)    gpu:V100S:1(S:0),lsc, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition   
+a1-10(scavenge_p)   gpu:V100S:1(S:0),lsc, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition      
+a1-23(scavenge_p)   gpu:V100S:1(S:0),lsc, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition   
+a1-24(scavenge_p)   gpu:V100S:1(S:0),lsc, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition    
 
-b6-1                gpu:A100:4(S:0-1),ls  
-b6-2                gpu:A100:4(S:0-1),ls  
-b6-3                gpu:A100:4(S:0-1),ls  
-b6-4                gpu:A100:4(S:0-1),ls  
+b6-1                gpu:A100:4(S:0-1),ls, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition     
+b6-2                gpu:A100:4(S:0-1),ls, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition     
+b6-3                gpu:A100:4(S:0-1),ls, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition     
+b6-4                gpu:A100:4(S:0-1),ls, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition     
 
-b7-1                gpu:A100:4(S:0-1),ls  
-b7-2                gpu:A100:4(S:0-1),ls  
-b7-3                gpu:A100:4(S:0-1),ls  
-b7-4                gpu:A100:4(S:0-1),ls  
+b7-1                gpu:A100:4(S:0-1),ls, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition     
+b7-2                gpu:A100:4(S:0-1),ls, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition     
+b7-3                gpu:A100:4(S:0-1),ls, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition     
+b7-4                gpu:A100:4(S:0-1),ls, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition     
    
-b8-1                gpu:A100:4(S:0-1),ls  
-b8-2                gpu:A100:4(S:0-1),ls  
-b8-3                gpu:A100:4(S:0-1),ls   
-b8-4                gpu:A100:4(S:0-1),ls  
+b8-1                gpu:A100:4(S:0-1),ls, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition     
+b8-2                gpu:A100:4(S:0-1),ls, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition     
+b8-3                gpu:A100:4(S:0-1),ls, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition      
+b8-4                gpu:A100:4(S:0-1),ls, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition     
 
-c4-23               gpu:P100:1,lscratch:  
-c5-22               gpu:P100:1(S:0),lscr    
-c5-23               gpu:P100:1(S:0),lscr    
+c4-23               gpu:P100:1,lscratch:, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition     
+c5-22               gpu:P100:1(S:0),lscr, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition       
+c5-23               gpu:P100:1(S:0),lscr, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition       
  
-d1-1(scavenge_p)    gpu:V100:1(S:0),lscr  
-d1-2(scavenge_p)    gpu:V100:1(S:0),lscr  
-d1-3(scavenge_p)    gpu:V100:1(S:0),lscr  
-d1-4(scavenge_p)    gpu:V100:1(S:0),lscr  
-d1-9(Bahal)         gpu:V100:2(S:0-1),ls  
-d1-10(Bahal)        gpu:V100:2(S:0-1),ls  
-d1-11(Bahal)        gpu:V100:1,lscratch 
+d1-1(scavenge_p)    gpu:V100:1(S:0),lscr, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition   
+d1-2(scavenge_p)    gpu:V100:1(S:0),lscr, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition     
+d1-3(scavenge_p)    gpu:V100:1(S:0),lscr, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition     
+d1-4(scavenge_p)    gpu:V100:1(S:0),lscr, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition     
+d1-9(Bahal)         gpu:V100:2(S:0-1),ls, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition     
+d1-10(Bahal)        gpu:V100:2(S:0-1),ls, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition     
+d1-11(Bahal)        gpu:V100:1,lscratch, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition    
 ## b6-1 GPU （Ethernet：10.2.3.197；InfiB：10.55.3.197）No.1
 ![b6-1](./images/b6-1.png)  
 ## b6-2 GPU （Ethernet：10.2.3.198；InfiB：10.55.3.198）No.2
