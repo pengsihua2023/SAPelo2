@@ -22,9 +22,9 @@ b8-2                gpu:A100:4(S:0-1),ls, CPU Mem:1TB, GPU Mem: 80G, Core: 64, P
 b8-3                gpu:A100:4(S:0-1),ls, CPU Mem:1TB, GPU Mem: 80G, Core: 64, Partition=gpu_p/gpu_30d_p      
 b8-4                gpu:A100:4(S:0-1),ls, CPU Mem:1TB, GPU Mem: 80G, Core: 64, Partition=gpu_p/gpu_30d_p     
 
-c4-23(down)         gpu:P100:1,lscratch:, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition=gpu_p/gpu_30d_p     
-c5-22               gpu:P100:1(S:0),lscr, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition=gpu_p/gpu_30d_p       
-c5-23               gpu:P100:1(S:0),lscr, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition=gpu_p/gpu_30d_p       
+c4-23(down)         gpu:P100:1,lscratch:, CPU Mem:**G, GPU Mem: **G, Core: **, Partition=gpu_p/gpu_30d_p     
+c5-22               gpu:P100:1(S:0),lscr, CPU Mem:192G, GPU Mem: 16G, Core: 32, Partition=gpu_p/gpu_30d_p       
+c5-23               gpu:P100:1(S:0),lscr, CPU Mem:192G, GPU Mem: 16G, Core: 32, Partition=gpu_p/gpu_30d_p       
  
 d1-1(scavenge_p)    gpu:V100:1(S:0),lscr, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition=scavenge_p   
 d1-2(scavenge_p)    gpu:V100:1(S:0),lscr, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition=scavenge_p     
