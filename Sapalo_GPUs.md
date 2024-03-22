@@ -12,15 +12,15 @@ b6-2                gpu:A100:4(S:0-1),ls, CPU Mem:128G, GPU Mem: 80G, Core: 32, 
 b6-3                gpu:A100:4(S:0-1),ls, CPU Mem:128G, GPU Mem: 80G, Core: 32, Partition=gpu_p/gpu_30d_p     
 b6-4                gpu:A100:4(S:0-1),ls, CPU Mem:128G, GPU Mem: 80G, Core: 32, Partition=gpu_p/gpu_30d_p     
 
-b7-1                gpu:A100:4(S:0-1),ls, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition=gpu_p/gpu_30d_p     
-b7-2                gpu:A100:4(S:0-1),ls, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition=gpu_p/gpu_30d_p     
-b7-3                gpu:A100:4(S:0-1),ls, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition=gpu_p/gpu_30d_p     
-b7-4                gpu:A100:4(S:0-1),ls, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition=gpu_p/gpu_30d_p     
+b7-1                gpu:A100:4(S:0-1),ls, CPU Mem:128G, GPU Mem: 80G, Core: 32, Partition=gpu_p/gpu_30d_p     
+b7-2                gpu:A100:4(S:0-1),ls, CPU Mem:128G, GPU Mem: 80G, Core: 32, Partition=gpu_p/gpu_30d_p     
+b7-3                gpu:A100:4(S:0-1),ls, CPU Mem:128G, GPU Mem: 80G, Core: 32, Partition=gpu_p/gpu_30d_p     
+b7-4                gpu:A100:4(S:0-1),ls, CPU Mem:128G, GPU Mem: 80G, Core: 32, Partition=gpu_p/gpu_30d_p     
    
-b8-1                gpu:A100:4(S:0-1),ls, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition=gpu_p/gpu_30d_p     
-b8-2                gpu:A100:4(S:0-1),ls, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition=gpu_p/gpu_30d_p     
-b8-3                gpu:A100:4(S:0-1),ls, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition=gpu_p/gpu_30d_p      
-b8-4                gpu:A100:4(S:0-1),ls, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition=gpu_p/gpu_30d_p     
+b8-1                gpu:A100:4(S:0-1),ls, CPU Mem:128G, GPU Mem: 80G, Core: 32, Partition=gpu_p/gpu_30d_p     
+b8-2                gpu:A100:4(S:0-1),ls, CPU Mem:128G, GPU Mem: 80G, Core: 32, Partition=gpu_p/gpu_30d_p     
+b8-3                gpu:A100:4(S:0-1),ls, CPU Mem:128G, GPU Mem: 80G, Core: 32, Partition=gpu_p/gpu_30d_p      
+b8-4                gpu:A100:4(S:0-1),ls, CPU Mem:128G, GPU Mem: 80G, Core: 32, Partition=gpu_p/gpu_30d_p     
 
 c4-23(down)         gpu:P100:1,lscratch:, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition=gpu_p/gpu_30d_p     
 c5-22               gpu:P100:1(S:0),lscr, CPU Mem:128G, GPU Mem: 32G, Core: 32, Partition=gpu_p/gpu_30d_p       
