@@ -6,7 +6,7 @@
 scontrol show job (jobid)：显示指定作业的详细信息，包括作业状态、资源分配等。 
 
 ### 查看节点状态： 
-scontrol show node <nodename>：显示指定节点的状态信息，包括节点的资源、状态、分区等信息。  
+scontrol show node (nodename)：显示指定节点的状态信息，包括节点的资源、状态、分区等信息。  
 
 ### 取消作业： 
 scontrol cancel <jobid>：取消指定的作业。这需要作业属于执行该命令的用户。  
