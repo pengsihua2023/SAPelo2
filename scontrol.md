@@ -9,10 +9,10 @@ scontrol show job (jobid)：显示指定作业的详细信息，包括作业状�
 scontrol show node (nodename)：显示指定节点的状态信息，包括节点的资源、状态、分区等信息。  
 
 ### 取消作业： 
-scontrol cancel <jobid>：取消指定的作业。这需要作业属于执行该命令的用户。  
+scontrol cancel `<jobid>`：取消指定的作业。这需要作业属于执行该命令的用户。  
 
 ### 更新作业信息：  
-scontrol update JobId=<jobid> [parameters]：对作业进行更新。普通用户能更新的参数有限，比如，可能允许用户延长作业运行时间或修改其他某些作业属性，这取决于 Slurm 配置的限制。
+scontrol update JobId=`<jobid>` [parameters]：对作业进行更新。普通用户能更新的参数有限，比如，可能允许用户延长作业运行时间或修改其他某些作业属性，这取决于 Slurm 配置的限制。
 
 ### 注意事项
 实际上普通用户可以执行的 scontrol 参数和命令，很大程度上依赖于 Slurm 的配置以及管理员对权限的设置。一些命令可能需要特定的权限才能执行。 
