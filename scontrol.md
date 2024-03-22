@@ -3,7 +3,7 @@
 普通用户（非管理员）通常使用 scontrol 来查询作业和集群的状态信息或对自己的作业进行操作。以下是一些普通用户常用的 scontrol 命令参数：  
 
 ### 查看作业信息：
-scontrol show job jobid：显示指定作业的详细信息，包括作业状态、资源分配等。 
+scontrol show job (jobid)：显示指定作业的详细信息，包括作业状态、资源分配等。 
 
 ### 查看节点状态： 
 scontrol show node <nodename>：显示指定节点的状态信息，包括节点的资源、状态、分区等信息。  
