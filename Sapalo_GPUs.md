@@ -28,34 +28,34 @@
 ## c5-23 GPU （Ethernet：10.2.1.117；InfiB：10.55.1.117）No.14
 ![c5-23](./images/c5-23.png) 
 ## GPU nodes in Sapelo2
+sinfo --Format=NodeHost,Gres | grep gpu  
 
-(genslm) sp96859@ss-sub2 GenSLM$ sinfo --Format=NodeHost,Gres | grep gpu
-c4-23               gpu:P100:1,lscratch:
-b6-4                gpu:A100:4(S:0-1),ls
-b7-1                gpu:A100:4(S:0-1),ls
-b7-3                gpu:A100:4(S:0-1),ls
-b6-1                gpu:A100:4(S:0-1),ls
-b6-2                gpu:A100:4(S:0-1),ls
-b7-2                gpu:A100:4(S:0-1),ls
-b6-3                gpu:A100:4(S:0-1),ls
-b7-4                gpu:A100:4(S:0-1),ls
-c5-22               gpu:P100:1(S:0),lscr
-c5-23               gpu:P100:1(S:0),lscr
-b8-3                gpu:A100:4(S:0-1),ls
-b8-1                gpu:A100:4(S:0-1),ls
-b8-2                gpu:A100:4(S:0-1),ls
-b8-4                gpu:A100:4(S:0-1),ls
-a1-23               gpu:V100S:1(S:0),lsc
-a1-24               gpu:V100S:1(S:0),lsc
-d1-1                gpu:V100:1(S:0),lscr
-d1-3                gpu:V100:1(S:0),lscr
-d1-4                gpu:V100:1(S:0),lscr
-d1-9                gpu:V100:2(S:0-1),ls
-d1-10               gpu:V100:2(S:0-1),ls
-d1-11               gpu:V100:1,lscratch:
-d1-2                gpu:V100:1(S:0),lscr
-a1-9                gpu:V100S:1(S:0),lsc
-a1-10               gpu:V100S:1(S:0),lsc
+c4-23               gpu:P100:1,lscratch:  
+b6-4                gpu:A100:4(S:0-1),ls  
+b7-1                gpu:A100:4(S:0-1),ls  
+b7-3                gpu:A100:4(S:0-1),ls  
+b6-1                gpu:A100:4(S:0-1),ls  
+b6-2                gpu:A100:4(S:0-1),ls  
+b7-2                gpu:A100:4(S:0-1),ls  
+b6-3                gpu:A100:4(S:0-1),ls  
+b7-4                gpu:A100:4(S:0-1),ls  
+c5-22               gpu:P100:1(S:0),lscr  
+c5-23               gpu:P100:1(S:0),lscr 
+b8-3                gpu:A100:4(S:0-1),ls  
+b8-1                gpu:A100:4(S:0-1),ls  
+b8-2                gpu:A100:4(S:0-1),ls  
+b8-4                gpu:A100:4(S:0-1),ls  
+a1-23               gpu:V100S:1(S:0),lsc  
+a1-24               gpu:V100S:1(S:0),lsc  
+d1-1                gpu:V100:1(S:0),lscr  
+d1-3                gpu:V100:1(S:0),lscr  
+d1-4                gpu:V100:1(S:0),lscr  
+d1-9                gpu:V100:2(S:0-1),ls  
+d1-10               gpu:V100:2(S:0-1),ls  
+d1-11               gpu:V100:1,lscratch:  
+d1-2                gpu:V100:1(S:0),lscr  
+a1-9                gpu:V100S:1(S:0),lsc  
+a1-10               gpu:V100S:1(S:0),lsc  
 
 ## Cuda module in Sapelo2 
 Description:  
