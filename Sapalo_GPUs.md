@@ -19,7 +19,7 @@ b7-4                gpu:A100:4(S:0-1),ls
    
 b8-1                gpu:A100:4(S:0-1),ls  
 b8-2                gpu:A100:4(S:0-1),ls  
-b8-3                gpu:A100:4(S:0-1),ls 
+b8-3                gpu:A100:4(S:0-1),ls   
 b8-4                gpu:A100:4(S:0-1),ls  
 
 c4-23               gpu:P100:1,lscratch:  
