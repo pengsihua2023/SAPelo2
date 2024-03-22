@@ -39,9 +39,9 @@ b6-2                gpu:A100:4(S:0-1),ls
 b7-2                gpu:A100:4(S:0-1),ls  
 b6-3                gpu:A100:4(S:0-1),ls  
 b7-4                gpu:A100:4(S:0-1),ls  
-c5-22               gpu:P100:1(S:0),lscr  
-c5-23               gpu:P100:1(S:0),lscr 
-b8-3                gpu:A100:4(S:0-1),ls  
+c5-22               gpu:P100:1(S:0),lscr    
+c5-23               gpu:P100:1(S:0),lscr    
+b8-3                gpu:A100:4(S:0-1),ls    
 b8-1                gpu:A100:4(S:0-1),ls  
 b8-2                gpu:A100:4(S:0-1),ls  
 b8-4                gpu:A100:4(S:0-1),ls  
