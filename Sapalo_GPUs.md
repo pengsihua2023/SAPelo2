@@ -5,6 +5,8 @@
 ![b6-2](./images/b6-2.png)  
 ## b6-3 GPU （Ethernet：10.2.3.199；InfiB：10.55.3.199）No.3
 ![b6-3](./images/b6-3.png)  
+## b6-4 GPU （Ethernet：10.2.3.200；InfiB：10.55.3.200）No.4
+![b6-4](./images/b6-4.png)  
 ## b7-1 GPU （Ethernet：10.2.3.223；InfiB：10.55.3.223）No.4
 ![b7-1](./images/b7-1.png) 
 ## b7-2 GPU （Ethernet：10.2.3.224；InfiB：10.55.3.224）No.5
