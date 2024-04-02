@@ -9,3 +9,8 @@
 [How to cancel (delete) a running or pending job](https://wiki.gacrc.uga.edu/wiki/Running_Jobs_on_Sapelo2#How_to_cancel_.28delete.29_a_running_or_pending_job)  
 [How to check resource utilization of a running or finished job](https://wiki.gacrc.uga.edu/wiki/Running_Jobs_on_Sapelo2#How_to_check_resource_utilization_of_a_running_or_finished_job)  
 [OnDemand](https://wiki.gacrc.uga.edu/wiki/OnDemand)  
+
+
+## tips 
+How to display GPU memory usage in real time on a Linux machine?  
+Use nvidia-smi command: watch -n 1 nvidia-smi  
