@@ -31,4 +31,7 @@ ssh-keygen -t rsa -b 2048
 ssh-copy-id -i ~/.ssh/id_rsa.pub sp96859@b1-2
 
 ```
-这里，your_username 是你在远程服务器上的用户名，remote_host 是远程服务器的主机名或 IP 地址。这个命令会要求你输入一次远程服务器的密码。  
+这里，your_username 是你在远程服务器上的用户名，remote_host 是远程服务器的主机名或 IP 地址。这个命令会要求你输入一次远程服务器的密码。 
+
+### 已经配置好ssh无密钥的登录机
+ss-sub4  
