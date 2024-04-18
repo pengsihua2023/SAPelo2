@@ -67,4 +67,24 @@ Sapelo2： module load cuDNN/8.1.0.77-CUDA-11.2.1
      $ module spider CUDA/12.0.0
 
 ```
+## GenSLM
+```
+  GenSLM: GenSLM/0.0.4a1-foss-2022a-CUDA-11.7.0
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    Description:
+      GenSLMs: Genome-scale language models reveal SARS-CoV-2 evolutionary dynamics 
 
+
+    This module can be loaded directly: module load GenSLM/0.0.4a1-foss-2022a-CUDA-11.7.0
+
+    Help:
+      Description
+      ===========
+      GenSLMs: Genome-scale language models reveal SARS-CoV-2 evolutionary dynamics
+      
+      
+      More information
+      ================
+       - Homepage: https://github.com/ramanathanlab/genslm
+
+```
