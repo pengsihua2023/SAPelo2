@@ -39,3 +39,4 @@ ss-sub4
 ## 与Tensorflow兼容的cuda，cudnn版本
 [深度学习TensorFlow—GPU，CUDA、cuDNN](https://blog.csdn.net/shine_Lee_/article/details/128753290)  
 Tensorflow_GPU-2.5.0兼容的 CUDA 11.2, CuDNN 8.1  
+Sapelo2： module load cuDNN/8.1.0.77-CUDA-11.2.1  
