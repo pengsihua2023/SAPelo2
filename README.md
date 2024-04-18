@@ -35,3 +35,6 @@ ssh-copy-id -i ~/.ssh/id_rsa.pub sp96859@b1-2
 
 ### 已经配置好ssh无密钥的登录机
 ss-sub4  
+
+## 与Tensorflow兼容的cuda，cudnn版本
+[深度学习TensorFlow—GPU，CUDA、cuDNN](https://blog.csdn.net/shine_Lee_/article/details/128753290)  
