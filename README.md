@@ -118,3 +118,34 @@ Sapelo2： module load cuDNN/8.1.0.77-CUDA-11.2.1
        - Homepage: https://github.com/ramanathanlab/genslm
 
 ```
+## ESM-2
+```
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ESM-2: ESM-2/2.0.0-foss-2022a-CUDA-11.7.0
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    Description:
+      ESM-2 outperforms all tested single-sequence protein language models across a range of structure prediction tasks. ESMFold harnesses the ESM-2 language model to generate accurate structure predictions end to end directly
+      from the sequence of a protein.
+
+
+    This module can be loaded directly: module load ESM-2/2.0.0-foss-2022a-CUDA-11.7.0
+
+    Help:
+      Description
+      ===========
+      ESM-2 outperforms all tested single-sequence protein language models
+       across a range of structure prediction tasks. ESMFold harnesses the ESM-2 language model to generate
+       accurate structure predictions end to end directly from the sequence of a protein.
+      
+      
+      More information
+      ================
+       - Homepage: https://github.com/facebookresearch/esm
+      
+      
+      Included extensions
+      ===================
+      antlr4-python3-runtime-4.9.3, fair-esm-2.0.0, omegaconf-2.2.3
+      
+
+```
