@@ -40,3 +40,31 @@ ss-sub4
 [深度学习TensorFlow—GPU，CUDA、cuDNN](https://blog.csdn.net/shine_Lee_/article/details/128753290)  
 Tensorflow_GPU-2.5.0兼容的 CUDA 11.2, CuDNN 8.1  
 Sapelo2： module load cuDNN/8.1.0.77-CUDA-11.2.1  
+## Sapelo2中cuda与cudnn版本
+```
+  CUDA:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    Description:
+      CUDA (formerly Compute Unified Device Architecture) is a parallel computing platform and programming model created by NVIDIA and implemented by the graphics processing units (GPUs) that they produce. CUDA gives developers
+      access to the virtual instruction set and memory of the parallel computational elements in CUDA GPUs.
+
+     Versions:
+        CUDA/10.0.130
+        CUDA/10.1.243
+        CUDA/11.1.1-GCC-10.2.0
+        CUDA/11.2.1-GCC-8.3.0
+        CUDA/11.2.1
+        CUDA/11.3.1
+        CUDA/11.4.1
+        CUDA/11.7.0
+        CUDA/12.0.0
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  For detailed information about a specific "CUDA" package (including how to load the modules) use the module's full name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider CUDA/12.0.0
+
+```
+
