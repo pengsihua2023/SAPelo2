@@ -170,3 +170,34 @@ Sapelo2： module load cuDNN/8.1.0.77-CUDA-11.2.1
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 ```
+## Pymol
+```
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  PyMOL: PyMOL/2.5.0-foss-2022a
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    Description:
+      PyMOL is a Python-enhanced molecular graphics tool. It excels at 3D visualization of proteins, small molecules, density, surfaces, and trajectories. It also includes molecular editing, ray tracing, and movies. Open Source
+      PyMOL is free to everyone! 
+
+
+    This module can be loaded directly: module load PyMOL/2.5.0-foss-2022a
+
+    Help:
+      Description
+      ===========
+      PyMOL is a Python-enhanced molecular graphics tool. It excels at 3D             
+      visualization of proteins, small molecules, density, surfaces, and trajectories.
+      It also includes molecular editing, ray tracing, and movies. Open Source PyMOL  
+      is free to everyone!
+      
+      
+      More information
+      ================
+       - Homepage: https://github.com/schrodinger/pymol-open-source
+      
+      
+      Included extensions
+      ===================
+      Pmw-2.0.1, PyMOL-2.5.0
+
+```
