@@ -223,3 +223,27 @@ Sapelo2： module load cuDNN/8.1.0.77-CUDA-11.2.1
 
 
 ```
+## AlphaFold 2
+
+```
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  AlphaFold:
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    Description:
+      AlphaFold can predict protein structures with atomic accuracy even where no similar structure is known. This package of AlphaFold contains patches for ColabFold.
+
+     Versions:
+        AlphaFold/2.3.1-foss-2022a-CUDA-11.7.0
+        AlphaFold/2.3.4-foss-2022a-CUDA-11.7.0-ColabFold
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  For detailed information about a specific "AlphaFold" package (including how to load the modules) use the module's full name.
+  Note that names that have a trailing (E) are extensions provided by other modules.
+  For example:
+
+     $ module spider AlphaFold/2.3.4-foss-2022a-CUDA-11.7.0-ColabFold
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+```
