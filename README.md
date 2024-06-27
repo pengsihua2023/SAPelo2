@@ -10,6 +10,8 @@
 [How to check resource utilization of a running or finished job](https://wiki.gacrc.uga.edu/wiki/Running_Jobs_on_Sapelo2#How_to_check_resource_utilization_of_a_running_or_finished_job)  
 [OnDemand](https://wiki.gacrc.uga.edu/wiki/OnDemand)  
 
+[module load CUDA/11.7.0](https://github.com/pengsihua2023/List-of-sub)
+
 
 ## tips 
 How to display GPU memory usage in real time on a Linux machine?  
